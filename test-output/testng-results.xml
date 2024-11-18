@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="10" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-14T19:34:13 IST" name="Suite" finished-at="2024-11-14T19:34:41 IST" duration-ms="28138">
+    <groups>
+    </groups>
+    <test started-at="2024-11-14T19:34:13 IST" name="Test" finished-at="2024-11-14T19:34:41 IST" duration-ms="28138">
+      <class name="test.SwagLabHomePageTest">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabHomePageTest@5f049ea1]" started-at="2024-11-14T19:34:25 IST" name="LaunchApplication" finished-at="2024-11-14T19:34:27 IST" duration-ms="2130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerfiySortFeatureForAtoZ()[pri:0, instance:test.SwagLabHomePageTest@5f049ea1]" started-at="2024-11-14T19:34:27 IST" name="VerfiySortFeatureForAtoZ" finished-at="2024-11-14T19:34:28 IST" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfiySortFeatureForAtoZ -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabHomePageTest@5f049ea1]" started-at="2024-11-14T19:34:28 IST" name="LaunchApplication" finished-at="2024-11-14T19:34:30 IST" duration-ms="2119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerfiySortFeatureForPriceHighToLow()[pri:0, instance:test.SwagLabHomePageTest@5f049ea1]" started-at="2024-11-14T19:34:30 IST" name="VerfiySortFeatureForPriceHighToLow" finished-at="2024-11-14T19:34:31 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfiySortFeatureForPriceHighToLow -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabHomePageTest@5f049ea1]" started-at="2024-11-14T19:34:31 IST" name="LaunchApplication" finished-at="2024-11-14T19:34:35 IST" duration-ms="3705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerfiySortFeatureForPriceLowToHigh()[pri:0, instance:test.SwagLabHomePageTest@5f049ea1]" started-at="2024-11-14T19:34:35 IST" name="VerfiySortFeatureForPriceLowToHigh" finished-at="2024-11-14T19:34:35 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfiySortFeatureForPriceLowToHigh -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.SwagLabHomePageTest@5f049ea1]" started-at="2024-11-14T19:34:35 IST" name="LaunchApplication" finished-at="2024-11-14T19:34:40 IST" duration-ms="5230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="VerfiySortFeatureForZtoA()[pri:0, instance:test.SwagLabHomePageTest@5f049ea1]" started-at="2024-11-14T19:34:40 IST" name="VerfiySortFeatureForZtoA" finished-at="2024-11-14T19:34:41 IST" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfiySortFeatureForZtoA -->
+      </class> <!-- test.SwagLabHomePageTest -->
+      <class name="test.SwagLabLoginTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabLoginTest@3f191845]" started-at="2024-11-14T19:34:20 IST" name="launchApplication" finished-at="2024-11-14T19:34:23 IST" duration-ms="2096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyIfUserIsAbleToLoginWithValidCredentials()[pri:0, instance:test.SwagLabLoginTest@3f191845]" started-at="2024-11-14T19:34:23 IST" name="verifyIfUserIsAbleToLoginWithValidCredentials" finished-at="2024-11-14T19:34:23 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfUserIsAbleToLoginWithValidCredentials -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:test.SwagLabLoginTest@3f191845]" started-at="2024-11-14T19:34:23 IST" name="launchApplication" finished-at="2024-11-14T19:34:25 IST" duration-ms="1872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyIfWarningMesaageIsDisplayedForLockedUser()[pri:0, instance:test.SwagLabLoginTest@3f191845]" started-at="2024-11-14T19:34:25 IST" name="verifyIfWarningMesaageIsDisplayedForLockedUser" finished-at="2024-11-14T19:34:25 IST" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfWarningMesaageIsDisplayedForLockedUser -->
+      </class> <!-- test.SwagLabLoginTest -->
+      <class name="test.CartTest">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.CartTest@449a4f23]" started-at="2024-11-14T19:34:13 IST" name="LaunchApplication" finished-at="2024-11-14T19:34:16 IST" duration-ms="3184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="addProductToCart()[pri:0, instance:test.CartTest@449a4f23]" started-at="2024-11-14T19:34:16 IST" name="addProductToCart" finished-at="2024-11-14T19:34:17 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:test.CartTest@449a4f23]" started-at="2024-11-14T19:34:17 IST" name="LaunchApplication" finished-at="2024-11-14T19:34:19 IST" duration-ms="2423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="verifyIfUserIsAbleTOAddProductToCart()[pri:0, instance:test.CartTest@449a4f23]" started-at="2024-11-14T19:34:19 IST" name="verifyIfUserIsAbleTOAddProductToCart" finished-at="2024-11-14T19:34:19 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfUserIsAbleTOAddProductToCart -->
+      </class> <!-- test.CartTest -->
+      <class name="test.Sample">
+        <test-method signature="test1()[pri:0, instance:test.Sample@3ba987b8]" started-at="2024-11-14T19:34:19 IST" name="test1" finished-at="2024-11-14T19:34:19 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:test.Sample@3ba987b8]" started-at="2024-11-14T19:34:19 IST" name="test2" finished-at="2024-11-14T19:34:20 IST" duration-ms="1023" status="FAIL">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method test.Sample.test2() didn't finish within the time-out 1000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method test.Sample.test2() didn't finish within the time-out 1000
+at java.base@17.0.2/java.lang.Thread.sleep(Native Method)
+at app//test.Sample.test2(Sample.java:16)
+at java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base@17.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base@17.0.2/java.lang.reflect.Method.invoke(Method.java:568)
+at app//org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at app//org.testng.internal.invokers.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:47)
+at app//org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:76)
+at app//org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:11)
+at java.base@17.0.2/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test4()[pri:0, instance:test.Sample@3ba987b8]" started-at="2024-11-14T19:34:20 IST" name="test4" finished-at="2024-11-14T19:34:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test3()[pri:0, instance:test.Sample@3ba987b8]" started-at="2024-11-14T19:34:20 IST" name="test3" finished-at="2024-11-14T19:34:20 IST" depends-on-methods="test.Sample.test2" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method test.Sample.test3() on instance test.Sample@3ba987b8 depends on not successfully finished methods 
+[test.Sample.test2() on instance test.Sample@3ba987b8]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method test.Sample.test3() on instance test.Sample@3ba987b8 depends on not successfully finished methods 
+[test.Sample.test2() on instance test.Sample@3ba987b8]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:159)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- test.Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
